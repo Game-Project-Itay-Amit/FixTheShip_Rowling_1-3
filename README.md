@@ -5,7 +5,7 @@ the player has to kill enemies and fix the code in order to continue to the next
 
 itch.io: https://amitay2022.itch.io/fixtheship-rolling-1-3
 
-##Scripts:
+## Scripts:
 
 ### WeaponSettings.cs & GunPickUp.cs : 
 are responsible for the pickup of the gun by the player and general settings about the gun.
