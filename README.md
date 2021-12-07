@@ -1,6 +1,6 @@
 # FixTheShip_Rowling_1-3
 
-in this game we did the first and third sub-categories of the rolling assignment.
+in this game we made the world for our game (Continuous Project) and we did the first and third sub-categories of the rolling assignment.
 the player has to kill enemies and fix the code in order to continue to the next level.
 
 itch.io: https://amitay2022.itch.io/fixtheship-rolling-1-3
